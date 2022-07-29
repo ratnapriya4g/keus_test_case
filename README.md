@@ -1,7 +1,6 @@
 # my_app
 
-![Food Ordering App Demo](lib/Screenshot/App-Screen-Recording.mp4 "AppScreenRecording")
-
+https://user-images.githubusercontent.com/38585678/181753292-c9b51d0a-22ee-4316-a4ae-15f458975901.mp4
 
 # About
 `my_app` is an application for online food ordering which is built in Flutter. It is a collection of Food Category, Food Item Details implemented with Flutter.
@@ -41,7 +40,7 @@ The android app lets you:
 ## Dashboard Screen
 
 
-![Dashbroad](lib/Screenshot/Dashboard-Page.jpeg"Dashboard")
+![Dashbroad](lib/Screenshot/Dashboard-Page.jpeg "Dashboard")
 
 ## Food Item Details
 
