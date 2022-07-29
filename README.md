@@ -1,6 +1,6 @@
 # my_app
 
-![Food Ordering App Demo](lib/Screenshot/app_screen.jpeg "Splash Screen")
+![Food Ordering App Demo](lib/Screenshot/App-Screen-Recording.mp4 "AppScreenRecording")
 
 
 # About
@@ -41,19 +41,19 @@ The android app lets you:
 ## Dashboard Screen
 
 
-![Dashbroad](lib/Screenshot/Dashboard.jpeg "Dashboard")
+![Dashbroad](lib/Screenshot/Dashboard-Page.jpeg"Dashboard")
 
 ## Food Item Details
 
-![MaterialComponents](lib/Screenshot/MaterialComponents/Materialcomponent3.jpeg "MaterialComponents")
+![FoodItemDetailsPage](lib/Screenshot/Food-Item-Details-Page.jpeg "FoodItemDetailsPage")
 
 ## Food Item Cart
 
-![Animations](lib/Screenshot/Animation.jpeg "Animations")
+![FoodItemCart](lib/Screenshot/Food-Item-Cart-Page.jpeg "FoodItemCart")
 
 ## Download App for better experience
 
-![About](lib/Screenshot/About.jpeg "About")
+![Apk](lib/Screenshot/base.apk "APP")
 
 # No Permission Required
 
