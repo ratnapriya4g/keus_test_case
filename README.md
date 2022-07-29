@@ -1,16 +1,66 @@
 # my_app
 
-A new Flutter project.
+![Food Ordering App Demo](lib/Screenshot/app_screen.jpeg "Splash Screen")
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# About
+`my_app` is an application for online food ordering which is built in Flutter. It is a collection of Food Category, Food Item Details implemented with Flutter.
+It also have a customized components of flutter, implementation of thrid party library by using pub_dev library and add animations to this app.
+`my_app` i.e. Food Ordering App makes our life easily to order online food at any time from your own place. 
 
-A few resources to get you started if this is your first Flutter project:
+# Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The android app lets you:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Collection of Food Items in the Dashboard.
+
+* Implementation of thrid-party Library by using pub_dev library through Flutter.
+
+
+* Internet-free app.
+
+
+* Completely ad-free.
+
+
+* View customize components using flutter.
+
+
+* Easy to select any Food Item and order it.
+
+
+* Food will order from Item Cart in app. 
+
+* Visualize bottom sheet animations
+
+
+
+
+# Screenshots
+
+## Dashboard Screen
+
+
+![Dashbroad](lib/Screenshot/Dashboard.jpeg "Dashboard")
+
+## Food Item Details
+
+![MaterialComponents](lib/Screenshot/MaterialComponents/Materialcomponent3.jpeg "MaterialComponents")
+
+## Food Item Cart
+
+![Animations](lib/Screenshot/Animation.jpeg "Animations")
+
+## Download App for better experience
+
+![About](lib/Screenshot/About.jpeg "About")
+
+# No Permission Required
+
+## Credits
+
+
+* Thanks [Flutter Documentation](https://flutter.dev/docs) for components
+
+
+* Thanks [pub_dev](https://pub.dev/packages) for awesome library.
